@@ -1,8 +1,6 @@
-# Projeto Agile
-
 ## Conceito
 
-Este projeto consiste em criar uma network de comunidades.
+Este projeto consiste em criar uma network de comunidades, denominada de Agile.
 
 ## Autor
 
