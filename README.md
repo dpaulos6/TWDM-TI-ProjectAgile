@@ -1,9 +1,8 @@
-# Projeto SuperChat
-***
+# Projeto Agile
 
 ## Conceito
 
-Este projeto consiste em criar uma WebApp para trocar mensagens online.
+Este projeto consiste em criar uma network de comunidades.
 
 ## Autor
 
